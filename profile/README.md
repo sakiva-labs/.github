@@ -1,27 +1,27 @@
-# SAKIVA LABS — Custom Software Development, Web3 & AI (US-first)
+# SAKIVA LABS — Custom Software Development, Web3 & AI
 
-We build production-grade products for **US startups & scale-ups**:
+## We build production-grade products for **US startups & scale-ups**:
   - **Custom development & Dedicated teams (outstaff)**.
   - **Web3 / Tokenization / Smart Contracts (Solidity, EVM, TON)**.
   - **MERN / Next.js / TypeScript / Node.js**.
   - **AI & RAG assistants, automation, DevOps**.
 
-**Why SAKIVA LABS**
+## **Why SAKIVA LABS**
   - 12+ years full-stack, battle-tested in fintech/crypto/AI.
   - Modular architectures, clean docs, CI/CD, testing culture.
   - Hands-on founders, fast iterations, predictable delivery.
 
-**Selected Work**
+## **Selected Work**
   - Token sales & vesting frameworks, bridges, RWA tokenization.
   - High-load MERN apps, multi-tenant SaaS, analytics pipelines.
   - AI chatbots (Telegram), RAG over docs/codebases.
 
-**Hire us**
-  - 📧 **hello@sakiva.dev**.
-  - 📆 **Book a 20-min intro call** (Calendar link).
-  - 🌐 **sakiva.dev** | **LinkedIn** (company page).
+## **Hire us**
+  - 📧 [**info@sakiva.us**](mailto:info@sakiva.us).
+  - 📆 [**Book a 15-min intro call**](mailto:info@sakiva.us).
+  - 🌐 [**sakiva.us**](https://sakiva.us/) | [**LinkedIn**](https://www.linkedin.com/company/sakiva-labs/).
 
-**Tech**
+## **Tech**
 `Solidity` `Ethers.js` `Next.js` `React` `Node.js` `TypeScript` `PostgreSQL` `MongoDB` `Docker` `K8s` `CI/CD` `RAG`  
 
 > Looking to **tokenize**? We provide architecture, smart contracts, compliance-ready flows, and web dashboards.
